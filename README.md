@@ -1,8 +1,6 @@
 4-to-2 bit Encoder and 2-to-4 bit decoder made via [TinyTapout](https://mailchi.mp/574276e3c9d7/tinytapeout) toolchain.
 
-Green wires are for Encoder.
 
-Yellor Wires are for Decoder.
 
 ## Truth Table for Encoder
 
