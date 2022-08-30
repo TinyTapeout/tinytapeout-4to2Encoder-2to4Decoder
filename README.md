@@ -12,4 +12,7 @@ Yellor Wires are for Decoder.
 
 ![decoder](https://circuitdigest.com/sites/default/files/inlineimages/u/Ordinary-Decoder-Truth-Table.png)
 
+## GDS
+![GDS](https://github.com/Shahzaib2028/tinytapeout-4to2Encoder-2to4Decoder/blob/main/gds_render.svg)
+
 
